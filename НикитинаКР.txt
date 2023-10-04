@@ -1,0 +1,43 @@
+commit c895c5044a551516ce48ede1466e61ad5bc0afaf
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:57:38 2023 +0500
+
+    создание файла TEST
+
+commit e96a0b0e18c56aa10b6732f99313302f8b2737bc
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:58:39 2023 +0500
+
+    создание файла prerelease
+
+commit 09fa97ab7009e4851353362256c80d2ea3d0510a
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:55:43 2023 +0500
+
+    временные файлы
+
+commit 9434420f86c2b6fde047f3ef300b68d380fce561
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:52:56 2023 +0500
+
+    Revert "Второе значение"
+    
+    This reverts commit db744e9b71e20cfb92547ca3e009e3989463911f.
+
+commit be73cc54cd8c77b170550af40187deb0527d16c4
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:50:53 2023 +0500
+
+    Предмет
+
+commit db744e9b71e20cfb92547ca3e009e3989463911f
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:45:56 2023 +0500
+
+    Второе значение
+
+commit 1b67d493c919b0ed2bbec948a89283f1fee8724d
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Wed Oct 4 04:44:55 2023 +0500
+
+    Мой первый коммит
